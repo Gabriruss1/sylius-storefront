@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="page-title">Prodotto - Sylius Store</title>
+  <meta name="description" content="Prodotto in dropshipping con spedizione diretta.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container" style="display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;">
+      <a href="index.html" class="brand">
+        <div class="brand-icon">←</div>
+        Torna ai prodotti
+      </a>
+
+      <a href="https://wa.me/393478986033" target="_blank" rel="noopener noreferrer" class="whatsapp-btn">
+        <span>&#9993;</span> Ordina su WhatsApp
+      </a>
+    </div>
+  </nav>
+
+  <!-- Product Detail -->
+  <main class="product-page">
+    <div id="not-found" class="not-found" style="display:none;">
+      <h1>Prodotto non trovato</h1>
+      <p>Il prodotto richiesto non esiste.</p>
+      <a href="index.html" class="btn-primary" style="display:inline-block;margin-top:1rem;">Torna alla homepage</a>
+    </div>
+
+    <div id="product-detail" class="product-detail" style="display:none;">
+      <div id="detail-image" class="detail-image">
+        <div id="detail-emoji" style="font-size:5rem;">📦</div>
+      </div>
+      <div>
+        <div class="detail-stock" id="detail-stock">✓ Disponibile</div>
+        <div class="detail-category" id="detail-category">Categoria</div>
+        <h1 class="detail-name" id="detail-name">Nome prodotto</h1>
+        <p class="detail-description" id="detail-description">Descrizione</p>
+
+        <div class="detail-price-box">
+          <div class="detail-price" id="detail-price">€0,00</div>
+          <div class="detail-price-note" id="detail-price-note">IVA inclusa</div>
+        </div>
+
+        <div class="detail-actions">
+          <a href="https://wa.me/393478986033" id="btn-whatsapp" class="btn-link btn-whatsapp" target="_blank" rel="noopener noreferrer">
+            📲 Ordina ora su WhatsApp
+          </a>
+        </div>
+
+        <a href="index.html" class="btn-back">← Torna ai prodotti</a>
+      </div>
+    </div>
+  </main>
+
+  <footer style="background:var(--card);border-top:1px solid var(--border);padding:2rem 1.5rem;text-align:center;color:var(--text-muted);font-size:0.85rem;">
+    <p><strong>Sylius Store</strong></p>
+    <p>Assistenza: <a href="https://wa.me/393478986033" target="_blank" rel="noopener noreferrer" style="color:var(--primary);">+39 3478986033</a></p>
+  </footer>
+
+  <script src="products.js"></script>
+  <script src="product.js"></script>
+</body>
+</html>

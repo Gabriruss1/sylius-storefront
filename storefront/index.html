@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sylius Store - Dropshipping Italia</title>
+  <meta name="description" content="Prodotti in dropshipping selezionati direttamente dai fornitori AliExpress. Spedizione veloce, qualità garantita, prezzi imbattibili.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container" style="display:flex;justify-content:space-between;align-items:center;gap:1rem;flex-wrap:wrap;">
+      <div class="brand">
+        <div class="brand-icon">S</div>
+        SYLIUS STORE
+      </div>
+
+      <div class="nav-links">
+        <a href="#">Prodotti</a>
+        <a href="#contatti">Contatti</a>
+      </div>
+
+      <a href="https://wa.me/393478986033" target="_blank" rel="noopener noreferrer" class="whatsapp-btn">
+        <span>&#9993;</span> Ordina su WhatsApp
+      </a>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero">
+    <h1>Negozio Dropshipping</h1>
+    <p>Prodotti selezionati direttamente dai fornitori AliExpress. Spedizione veloce, qualità garantita, prezzi imbattibili.</p>
+  </header>
+
+  <!-- Products -->
+  <section class="section">
+    <div class="section-title">
+      <span>🛍️</span> I Nostri Prodotti <span id="product-count" style="margin-left:auto;color:var(--text-muted);font-weight:500;"></span>
+    </div>
+    <div class="product-grid" id="product-grid">
+      <!-- Prodotti inseriti qui da script.js -->
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="contatti">
+    <p><strong>Sylius Store</strong></p>
+    <p>Spedizione diretta • Pagamenti sicuri • Assistenza via WhatsApp: <a href="https://wa.me/393478986033" target="_blank" rel="noopener noreferrer" style="color:var(--primary);">+39 3478986033</a></p>
+  </footer>
+
+  <script src="products.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
