@@ -259,4 +259,4 @@ const products = [
     category: "Elettronica",
     color: "#0f172a"
   }
-];
+];  
