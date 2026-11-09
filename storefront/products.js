@@ -260,19 +260,3 @@ const products = [
     color: "#0f172a"
   }
 ];
-
-  {
-    id: "53",
-    name: "Honor Watch 6 Smartwatch AMOLED 1.46 Pollici",
-    description: "Honor Watch 6, nuovo smartwatch con display AMOLED da 1,46 pollici, batteria che dura fino a 35 giorni, oltre 120 modalità per il monitoraggio della forma fisica e della salute, impermeabile fino a 5 ATM, protezione IP69, Bluetooth 5.4.",
-    price: 299.99,
-    cost_price: 144.18,
-    profit_margin: 0.52,
-    source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
-    stock: 50,
-    image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
-    category: "Elettronica",
-    color: "#0f172a"
-  }
-];
-Aggiunto immagini reali prodotti
