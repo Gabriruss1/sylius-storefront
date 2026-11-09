@@ -275,3 +275,4 @@ const products = [
     color: "#0f172a"
   }
 ];
+Aggiunto immagini reali prodotti
