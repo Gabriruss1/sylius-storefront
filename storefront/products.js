@@ -8,7 +8,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://cdn.printblur.com/unsafe/960x960/assets.printblur.com/2024/12/21/67663839aa7696.67907049.jpg",
     category: "Abbigliamento",
     color: "#8b5cf6"
   },
@@ -21,7 +21,7 @@ const products = [
     profit_margin: 0.55,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://acdn-us.mitiendanube.com/stores/003/746/377/products/s94aac426009e422188882482127e38443-jpg_-c2449380c49b7620ea17525380264580-480-0.webp",
     category: "Casa",
     color: "#f59e0b"
   },
@@ -34,7 +34,7 @@ const products = [
     profit_margin: 0.53,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=800&q=80",
     category: "Moda",
     color: "#ef4444"
   },
@@ -47,7 +47,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1590658268037-6bf12765a8bb?auto=format&fit=crop&w=800&q=80",
     category: "Elettronica",
     color: "#3b82f6"
   },
@@ -60,7 +60,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1605100804763-247ee482b861?auto=format&fit=crop&w=800&q=80",
     category: "Gioielli",
     color: "#b45309"
   },
@@ -73,7 +73,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
     category: "Scarpe",
     color: "#10b981"
   },
@@ -86,7 +86,7 @@ const products = [
     profit_margin: 0.50,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
     category: "Scarpe",
     color: "#0ea5e9"
   },
@@ -99,7 +99,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80",
     category: "Scarpe",
     color: "#ec4899"
   },
@@ -112,7 +112,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1556228578-0d85b6f9dd4c?auto=format&fit=crop&w=800&q=80",
     category: "Bellezza",
     color: "#d946ef"
   },
@@ -125,7 +125,7 @@ const products = [
     profit_margin: 0.52,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
     category: "Casa",
     color: "#6366f1"
   },
@@ -138,7 +138,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1507473885765-e2ed0f9c332b?auto=format&fit=crop&w=800&q=80",
     category: "Casa",
     color: "#14b8a6"
   },
@@ -151,7 +151,7 @@ const products = [
     profit_margin: 0.50,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80",
     category: "Scarpe",
     color: "#f97316"
   },
@@ -164,7 +164,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1605100804763-247ee482b861?auto=format&fit=crop&w=800&q=80",
     category: "Gioielli",
     color: "#374151"
   },
@@ -177,7 +177,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80",
     category: "Scarpe",
     color: "#059669"
   },
@@ -190,7 +190,7 @@ const products = [
     profit_margin: 0.52,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80",
     category: "Orologi",
     color: "#be185d"
   },
@@ -203,7 +203,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
     category: "Elettronica",
     color: "#4f46e5"
   },
@@ -216,7 +216,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=800&q=80",
     category: "Scarpe",
     color: "#db2777"
   },
@@ -229,7 +229,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=800&q=80",
     category: "Scarpe",
     color: "#0d9488"
   },
@@ -242,7 +242,7 @@ const products = [
     profit_margin: 0.51,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1556228578-0d85b6f9dd4c?auto=format&fit=crop&w=800&q=80",
     category: "Bellezza",
     color: "#c026d3"
   },
@@ -255,7 +255,22 @@ const products = [
     profit_margin: 0.52,
     source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
     stock: 50,
-    image: "",
+    image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
+    category: "Elettronica",
+    color: "#0f172a"
+  }
+];
+
+  {
+    id: "53",
+    name: "Honor Watch 6 Smartwatch AMOLED 1.46 Pollici",
+    description: "Honor Watch 6, nuovo smartwatch con display AMOLED da 1,46 pollici, batteria che dura fino a 35 giorni, oltre 120 modalità per il monitoraggio della forma fisica e della salute, impermeabile fino a 5 ATM, protezione IP69, Bluetooth 5.4.",
+    price: 299.99,
+    cost_price: 144.18,
+    profit_margin: 0.52,
+    source_url: "https://www.aliexpress.com/w/wholesale-trending-dropshipping-products.html",
+    stock: 50,
+    image: "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=800&q=80",
     category: "Elettronica",
     color: "#0f172a"
   }
